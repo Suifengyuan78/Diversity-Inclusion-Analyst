@@ -16,7 +16,7 @@ Calculating the following measures could help to define proper KPIs:
 - Average Performance rating: women
 
 ## Data source:  
-"Diversity Inclusion Dataset.xlsx" [Download here (https://cdn.theforage.com/vinternships/companyassets/4sLyCPgmsy8DA6Dh3/01%20Call-Center-Dataset.xlsx)](https://cdn.theforage.com/vinternships/companyassets/4sLyCPgmsy8DA6Dh3/03%20Diversity-Inclusion-Dataset.xlsx)
+"Diversity Inclusion Dataset.xlsx" [Download here](https://cdn.theforage.com/vinternships/companyassets/4sLyCPgmsy8DA6Dh3/03%20Diversity-Inclusion-Dataset.xlsx)
 
 ## Tools: 
 - Excel 
