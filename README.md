@@ -1,5 +1,6 @@
 #                               Diversity-Inclusion-for-HR
 
+#### Company:![image](https://github.com/Suifengyuan78/Call-Centre-Trends-Analysis/assets/167149285/3f109167-380c-474a-9daf-98946a4629db) [Know more about PWC](https://www.pwc.ch/en.html)
 
 ## Task: Create visualizations to represent HR data, particularly focusing on gender-related KPIs.Identify and discuss potential root causes for the slow progress in achieving gender balance at the executive management level.
 
